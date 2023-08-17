@@ -45,11 +45,11 @@ I am a ML Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 <div id="stats" align="center">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SweetB0nes&show_icons=true&theme=tokyonight)
+  ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SweetB0nes&show_icons=true&theme=tokyonight)
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SweetB0nes&theme=tokyonight)](https://git.io/streak-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SweetB0nes&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SweetB0nes&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
