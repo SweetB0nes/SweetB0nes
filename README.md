@@ -20,7 +20,7 @@
 
 ---
 ### :man_technologist: About Me :
-I am a ML Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+ML Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: Currently learning Python, ML, DL.
 
 - :zap: I study in my free time Kotlin.
